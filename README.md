@@ -1,1 +1,1 @@
-https://nefais.github.io/mysites/index.hmtl
+https://nefais.github.io/mysites/index.html
